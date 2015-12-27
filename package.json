@@ -25,6 +25,6 @@
   "dependencies": {
     "johnny-five": "^0.9.17",
     "q": "^1.4.1",
-    "xbox-controller-node": "^1.5.3"
+    "xbox-controller-node": "^1.6.0"
   }
 }
